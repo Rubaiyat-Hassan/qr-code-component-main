@@ -62,8 +62,10 @@ body {
     margin-inline: 25px;
     margin-block: 20px;
     text-align: center;
-    font-size: 1.5rem;
     color: var(--heading-color);
+  }
+  .Heading h1{
+    font-size: 1.5rem;
   }
   .desc{
     margin-inline: 25px;
@@ -81,6 +83,8 @@ body {
   }
   .Heading {
     margin-inline: 35px;
+  }
+  .Heading h1{
     font-size: 1.8rem;
   }
   .desc{
