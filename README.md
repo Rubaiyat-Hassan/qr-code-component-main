@@ -26,13 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Web-screenshot.png)
+![Desktop View](./ScreenShot/Desktop-view.png)
+![Mobile View](./ScreenShot/Mobile-view.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/Rubaiyat-Hassan/blog-preview-card-main.git](https://github.com/Rubaiyat-Hassan/blog-preview-card-main.git)
-- Live Site URL: [https://rubaiyat-hassan.github.io/blog-preview-card-main/](https://rubaiyat-hassan.github.io/blog-preview-card-main/)
+- Solution URL: [https://github.com/Rubaiyat-Hassan/blog-preview-card-main](https://github.com/Rubaiyat-Hassan/blog-preview-card-main)
+- Live Site URL: [https://rubaiyat-hassan.github.io/qr-code-component-main/](https://rubaiyat-hassan.github.io/qr-code-component-main/)
 
 ## My process
 
