@@ -29,7 +29,7 @@ Users should be able to:
 ![](./ScreenShot/Desktop-view.png)
 - Mobile View
 
-![](./ScreenShot/Mobile-view.png)
+  ![](./ScreenShot/Mobile-view.png)
 
 
 ### Links
