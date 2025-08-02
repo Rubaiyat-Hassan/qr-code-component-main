@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Rubaiyat-Hassan/blog-preview-card-main](https://github.com/Rubaiyat-Hassan/blog-preview-card-main)
+- Solution URL: [https://github.com/Rubaiyat-Hassan/qr-code-component-main](https://github.com/Rubaiyat-Hassan/qr-code-component-main)
 - Live Site URL: [https://rubaiyat-hassan.github.io/qr-code-component-main/](https://rubaiyat-hassan.github.io/qr-code-component-main/)
 
 ## My process
